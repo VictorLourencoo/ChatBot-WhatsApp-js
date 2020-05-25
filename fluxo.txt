@@ -1,0 +1,5 @@
+=> boas vinda(client) => apresentação
+=> mostrar opções => codigo(client)
+=> Resumo da venda=> comfirmação(client)
+=> seu endereço => passar endereço(client)
+=> encerrament => 
